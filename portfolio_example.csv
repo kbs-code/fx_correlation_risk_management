@@ -1,3 +1,6 @@
 pair,risk,direction
 GBP/USD,2,long
 EUR/USD,2,long
+USD/JPY,.5,long
+AUD/CHF,1,short
+AUD/NZD,2,long
